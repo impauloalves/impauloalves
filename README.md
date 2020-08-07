@@ -1,6 +1,4 @@
-<h1 align="center"><b>Paulo Alves</b></h1>
-
-<p align="center">
+<p>
 I'm a software engineer from Portugal :portugal:.
 </p>
 <div>
