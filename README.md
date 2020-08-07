@@ -1,6 +1,3 @@
-<p>
-I'm a software engineer from Portugal :portugal:.
-</p>
 <div>
 
 **I'm currently working as:**
