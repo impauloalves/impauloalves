@@ -12,8 +12,3 @@ Software Engineer at <a href="https://www.xpand-it.com" target="_blank"><b>Xpand
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></a></code>
 <code><a href="https://stripe.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></a></code>
-
-**You can reach me at:**
-
-[![Twitter: Paulo Alves](https://img.shields.io/twitter/follow/impauloalves?style=social)](https://twitter.com/impauloalves)
-[![Linkedin: Paulo Alves](https://img.shields.io/badge/-impauloalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/impauloalves/)](https://www.linkedin.com/in/impauloalves/)
