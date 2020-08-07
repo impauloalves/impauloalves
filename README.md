@@ -3,7 +3,7 @@
 <p align="center">
 I'm a software engineer from Portugal :portugal:.
 </p>
-<div align="center">
+<div>
 
 **You can reach me at:**
 
