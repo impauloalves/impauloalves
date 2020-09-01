@@ -1,9 +1,5 @@
 <div>
 
-**I'm currently working as:**
-
-Software Engineer at <a href="https://www.xpand-it.com" target="_blank"><b>Xpand IT</b></a>
-
 **Feel free to ask me about:**
 
 <code><a href="https://nodejs.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
